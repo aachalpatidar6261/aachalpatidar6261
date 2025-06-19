@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **REST APIs, and Shopify customization, API integration.**
 
-- 📫 How to reach me **aachalpatidar@gmail.com**
+- 📫 How to reach me **aachalpatidar9613@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/18AkR-A7w5p4T74HfeKdFXRbVNdXtOpKQ](https://drive.google.com/drive/folders/18AkR-A7w5p4T74HfeKdFXRbVNdXtOpKQ)
 
